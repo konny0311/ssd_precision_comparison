@@ -106,3 +106,7 @@ tflog/
 # checkpoints
 checkpoints/
 checkpoints_classlimitted/
+
+#github
+.github/
+.gitattributes
