@@ -1,8 +1,11 @@
 ## Comparsion of precision with the different volume of training data on Single-Shot MultiBox Detector
 ---
 ### Result
-#### Comparison in all classes
-#### Comparison in 5 classes
+### Comparison in all classes
+![volume_comparison_total](https://user-images.githubusercontent.com/34429021/60008958-f677cb80-96af-11e9-9c43-29853081bc41.png)
+### Comparison in 5 classes
+![volume_comparison_5classes](https://user-images.githubusercontent.com/34429021/60008971-fd9ed980-96af-11e9-91c0-15f3eeb8ba7b.png)
+
 
 ### Data
 
